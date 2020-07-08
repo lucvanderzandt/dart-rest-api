@@ -1,4 +1,7 @@
 # Changelog
+## 1.3.5
+- http dependency updated to >= 0.11.0 to enhance compatibility
+
 ## 1.3.4
 - http dependency downgraded to ^0.11.0 to enhance compatibility
 - yaml dependency downgraded to ^2.0.0 to enhance compatibility

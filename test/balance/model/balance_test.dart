@@ -1,7 +1,8 @@
 import 'dart:io';
 
-import 'package:messagebird/balance.dart';
 import 'package:test/test.dart';
+
+import 'package:messagebird/balance.dart';
 
 void main() {
   group('Balance', () {
